@@ -27,6 +27,8 @@ This is a link:
 [Google's Website](https://www.google.com)
 
 This is an image:
+
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ![Moon with Trees](images/background-screen-2.png)
